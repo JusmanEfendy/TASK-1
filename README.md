@@ -7,3 +7,4 @@
 
 2. Kemudian klik enter lalu cari python dengan versi terbaru. Untuk saat ini python terbaru adalah python.11
 
+![i2](https://user-images.githubusercontent.com/92988781/224471628-9d0e77d5-129d-4459-aa45-247c3d61cf20.png)

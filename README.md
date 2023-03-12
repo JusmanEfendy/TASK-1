@@ -32,6 +32,12 @@
 ![t5](https://user-images.githubusercontent.com/92988781/224541188-49666635-85b6-4263-a0b3-f6e023e45889.png)
 
 # MODUL 1
+
 ###### 1. Operator dan ekspresi
+
+contoh operator dan ekspresi
+
+![m1](https://user-images.githubusercontent.com/92988781/224542196-003b4b55-4bf9-49bb-919c-ed7d0866a156.png)
+
 
 

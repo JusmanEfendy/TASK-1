@@ -20,3 +20,14 @@
 5. Untuk melihat output program yang sudah dibuar tadi, cara saya yaitu membuka terminal dan mengarahkan terminal pada file tersebut lalu ketik perintah "python {namaFile}.py"
 
 ![t2](https://user-images.githubusercontent.com/92988781/224540415-fb592ebd-0306-4d7d-b0fe-c8e8c8b02295.png)
+
+### MEMBUAT PROGRAM SEDERHANA MENGGUNAKAN STATEMENT IF ELSE
+
+1. Ketik code seperti berikut lalu jalankan
+
+![t4](https://user-images.githubusercontent.com/92988781/224541120-9b1a7edb-00b1-44c3-bb02-db143f9429c0.png)
+
+2.Output dari code diatas seperti berikut
+
+![t5](https://user-images.githubusercontent.com/92988781/224541188-49666635-85b6-4263-a0b3-f6e023e45889.png)
+

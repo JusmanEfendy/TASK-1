@@ -27,7 +27,11 @@
 
 ![t4](https://user-images.githubusercontent.com/92988781/224541120-9b1a7edb-00b1-44c3-bb02-db143f9429c0.png)
 
-2.Output dari code diatas seperti berikut
+2. Output dari code diatas seperti berikut
 
 ![t5](https://user-images.githubusercontent.com/92988781/224541188-49666635-85b6-4263-a0b3-f6e023e45889.png)
+
+# MODUL 1
+###### 1. Operator dan ekspresi
+
 

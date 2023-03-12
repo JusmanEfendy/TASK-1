@@ -82,6 +82,20 @@ Pada tabel di bawah ini, misalkan x = 10 (0000 1010) dalam biner dan y = 4 (0000
 
 ![m11](https://user-images.githubusercontent.com/92988781/224564502-3ffa0e6d-93f0-481d-9b27-0b17c8b3267c.png)
 
-contoh operator bitwise beserta outputnya
+contoh operator bitwise
+
+![m12](https://user-images.githubusercontent.com/92988781/224565453-6f785b97-5340-41d3-96b4-579b7602859f.png)
+
+outputnya
+
+![m13](https://user-images.githubusercontent.com/92988781/224565513-f37a34e2-8810-4d51-b4e6-78b4b3fabf22.png)
+
+
+##### 7. operator identitas
+Operator identitas adalah operator yang memeriksa apakah dua buah nilai ( atau variabel ) berada pada lokasi memori yang sama.
+
+![m14](https://user-images.githubusercontent.com/92988781/224565644-0b5383dc-bb73-40f2-8378-94524dd68642.png)
+
+operator identitas beserte outputnya
 
 

@@ -9,5 +9,14 @@
 
 ![i2](https://user-images.githubusercontent.com/92988781/224471628-9d0e77d5-129d-4459-aa45-247c3d61cf20.png)
 
-3. Untuk memastikan python telah terinsal di perangkat teman teman, buka cmd lalu ketik "python --v". jika sudah terinstal maka tampillan cmd akan seperti ini (versi python akan muncul)
+3. Untuk memastikan python telah terinsal di perangkat teman teman, buka cmd lalu ketik "python --version". jika sudah terinstal maka tampillan cmd akan seperti ini (versi python akan muncul)
 
+![t3](https://user-images.githubusercontent.com/92988781/224540299-b1e44490-ef95-49e3-b2dc-77b005a709b6.png)
+
+4. Setelah instalasi berhasil kita akan mencoba meruning project untuk memastikan program python berjalan di perangkat. contoh seperti dibawah
+
+![t1](https://user-images.githubusercontent.com/92988781/224540352-f2ca5f9f-0e13-46dc-82c0-49aaa87f4542.png)
+
+5. Untuk melihat output program yang sudah dibuar tadi, cara saya yaitu membuka terminal dan mengarahkan terminal pada file tersebut lalu ketik perintah "python {namaFile}.py"
+
+![t2](https://user-images.githubusercontent.com/92988781/224540415-fb592ebd-0306-4d7d-b0fe-c8e8c8b02295.png)

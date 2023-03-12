@@ -49,7 +49,7 @@ contoh program Operator aritmatika beserta outputnya
 ![m3](https://user-images.githubusercontent.com/92988781/224543019-1e16cf19-10b7-4be9-abee-b55c0d61dc31.png)
 
 
-###### 3. Operator Penugasan
+###### 3. Operator Perbandingan
 Operator perbandingan adalah operator yang digunakan untuk membandingkan 2 buah nilai. Hasil perbandingannya adalah True atau False tergantung kondisi.
 
 ![m5](https://user-images.githubusercontent.com/92988781/224562204-aeb3c834-efb1-482d-8d30-e819fd3432b8.png)
@@ -57,3 +57,13 @@ Operator perbandingan adalah operator yang digunakan untuk membandingkan 2 buah 
 contoh program operator perbandingan beserta dengan outputnya
 
 ![m6](https://user-images.githubusercontent.com/92988781/224562693-015b3165-3ebf-434d-8250-87461a0265a4.png)
+
+##### 4. Operator Penugasan
+Operator penugasan adalah operator yang digunakan untuk memberi nilai ke variabel.
+
+![m7](https://user-images.githubusercontent.com/92988781/224563795-8f0fe6a7-73dc-40d2-853f-cf700c79ac63.png)
+
+contoh operator penugasan beserta outputnya
+
+![m8](https://user-images.githubusercontent.com/92988781/224563823-e3136f7a-e387-4e47-8ce6-23dc6db999bf.png)
+

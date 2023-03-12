@@ -74,4 +74,5 @@ Operator logika adalah operator yang digunakan untuk melakukan operasi logika. c
 
 contoh operator logika beserta outputnya
 
+![m10](https://user-images.githubusercontent.com/92988781/224564341-c31ed519-3188-413c-ba08-7fceefc859c7.png)
 

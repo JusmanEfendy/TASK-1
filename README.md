@@ -33,14 +33,14 @@
 
 # MODUL 1
 
-###### 1. Operator dan ekspresi
+##### 1. Operator dan ekspresi
 
 contoh operator dan ekspresi beserta outputnya
 
 ![m1](https://user-images.githubusercontent.com/92988781/224542196-003b4b55-4bf9-49bb-919c-ed7d0866a156.png)
 
 
-###### 2. Operator Aritmatika
+##### 2. Operator Aritmatika
 
 ![m2](https://user-images.githubusercontent.com/92988781/224542312-eb44bd3d-7067-4e7e-97ac-34044349e101.png)
 
@@ -49,7 +49,7 @@ contoh program Operator aritmatika beserta outputnya
 ![m3](https://user-images.githubusercontent.com/92988781/224543019-1e16cf19-10b7-4be9-abee-b55c0d61dc31.png)
 
 
-###### 3. Operator Perbandingan
+##### 3. Operator Perbandingan
 Operator perbandingan adalah operator yang digunakan untuk membandingkan 2 buah nilai. Hasil perbandingannya adalah True atau False tergantung kondisi.
 
 ![m5](https://user-images.githubusercontent.com/92988781/224562204-aeb3c834-efb1-482d-8d30-e819fd3432b8.png)
@@ -96,6 +96,7 @@ Operator identitas adalah operator yang memeriksa apakah dua buah nilai ( atau v
 
 ![m14](https://user-images.githubusercontent.com/92988781/224565644-0b5383dc-bb73-40f2-8378-94524dd68642.png)
 
-operator identitas beserte outputnya
+operator identitas beserta outputnya
 
+![m15](https://user-images.githubusercontent.com/92988781/224567045-9442ccb1-e67b-426c-bc4a-9280423ce80e.png)
 

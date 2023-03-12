@@ -67,3 +67,11 @@ contoh operator penugasan beserta outputnya
 
 ![m8](https://user-images.githubusercontent.com/92988781/224563823-e3136f7a-e387-4e47-8ce6-23dc6db999bf.png)
 
+##### 5. Operator Logika
+Operator logika adalah operator yang digunakan untuk melakukan operasi logika. contohnya (AND, OR, NOT)
+
+![M9](https://user-images.githubusercontent.com/92988781/224563956-52b3f0e9-7475-4bf5-ad57-1d1e2bc1c90d.png)
+
+contoh operator logika beserta outputnya
+
+

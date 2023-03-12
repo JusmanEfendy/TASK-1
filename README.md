@@ -35,9 +35,16 @@
 
 ###### 1. Operator dan ekspresi
 
-contoh operator dan ekspresi
+contoh operator dan ekspresi beserta outputnya
 
 ![m1](https://user-images.githubusercontent.com/92988781/224542196-003b4b55-4bf9-49bb-919c-ed7d0866a156.png)
 
 
+###### 2. Operator Aritmatika
+
+![m2](https://user-images.githubusercontent.com/92988781/224542312-eb44bd3d-7067-4e7e-97ac-34044349e101.png)
+
+contoh program Operator aritmatika beserta outputnya
+
+![m3](https://user-images.githubusercontent.com/92988781/224543019-1e16cf19-10b7-4be9-abee-b55c0d61dc31.png)
 

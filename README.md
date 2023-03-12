@@ -21,7 +21,7 @@
 
 ![t2](https://user-images.githubusercontent.com/92988781/224540415-fb592ebd-0306-4d7d-b0fe-c8e8c8b02295.png)
 
-### MEMBUAT PROGRAM SEDERHANA MENGGUNAKAN STATEMENT IF ELSE
+### MEMBUAT PROGRAM SEDERHANA MENGGUNAKAN STATEMENT IF ELSE (dengan inputan user)
 
 1. Ketik code seperti berikut lalu jalankan
 

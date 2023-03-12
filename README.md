@@ -76,3 +76,12 @@ contoh operator logika beserta outputnya
 
 ![m10](https://user-images.githubusercontent.com/92988781/224564341-c31ed519-3188-413c-ba08-7fceefc859c7.png)
 
+##### 6. operator Bitwise
+Operator bitwise adalah operator yang melakukan operasi bit terhadap operand. Operator ini beroperasi bit per bit sesuai dengan namanya. Sebagai misal, angka 2 dalam bit ditulis 10 dalam notasi biner dan angka 7 ditulis 111.
+Pada tabel di bawah ini, misalkan x = 10 (0000 1010) dalam biner dan y = 4 (0000 0100) dalam biner.
+
+![m11](https://user-images.githubusercontent.com/92988781/224564502-3ffa0e6d-93f0-481d-9b27-0b17c8b3267c.png)
+
+contoh operator bitwise beserta outputnya
+
+
